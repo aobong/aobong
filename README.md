@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aobong
 - 👀 I’m interested in iOS  
-- 🌱 I’m currently learning hwo to code using iOS
+- 🌱 I’m currently learning how to code using iOS
 - 💞️ I’m looking to collaborate on learning more about coding
 - 📫 How to reach me: message me here 😄
 <!---
